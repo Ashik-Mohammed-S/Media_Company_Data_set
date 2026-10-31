@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "files": {
+    "mediacompany.csv": {
+      "sha256": "a04b77a6d06642cfca2b94d24f1a156d4b0e48aa5e3465ec60d946e16a01dc98",
+      "uncompressed_bytes": 3981,
+      "storage": "raw",
+      "path": "mediacompany.csv"
+    }
+  }
+}

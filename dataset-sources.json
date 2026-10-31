@@ -1,0 +1,24 @@
+{
+  "source_repository": "vivekkum-ar/Media-Company-Linear-Regression",
+  "commit": "4106ac9d1b898a15840653293185d4b7bdc029e4",
+  "license": null,
+  "files": [
+    {
+      "filename": "mediacompany.csv",
+      "url": "https://raw.githubusercontent.com/vivekkum-ar/Media-Company-Linear-Regression/4106ac9d1b898a15840653293185d4b7bdc029e4/mediacompany.csv",
+      "sha256": "a04b77a6d06642cfca2b94d24f1a156d4b0e48aa5e3465ec60d946e16a01dc98",
+      "bytes": 3981,
+      "rows": 80,
+      "columns": [
+        "Date",
+        "Views_show",
+        "Visitors",
+        "Views_platform",
+        "Ad_impression",
+        "Cricket_match_india",
+        "Character_A",
+        "Unnamed: 7"
+      ]
+    }
+  ]
+}
